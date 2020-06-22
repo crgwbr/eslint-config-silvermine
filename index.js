@@ -167,6 +167,7 @@ module.exports = {
             'code': 140,
             'comments': 90,
             'ignoreUrls': true,
+            'ignorePattern': ' function ',
          },
       ],
       'max-nested-callbacks': [ 'error', 6 ],
